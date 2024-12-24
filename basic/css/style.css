@@ -1,0 +1,29 @@
+    .card-img-top {
+                height: 200px;
+                object-fit: cover;
+            }
+            .rating {
+                color: gold;
+            }
+            .category-buttons {
+                margin-bottom: 20px;
+            }
+
+               body{
+            background-color: #526D82;
+        }
+        .homenav{
+            background-color: #27374D;
+            font-size: large;
+            display:flex;
+            justify-content: end;
+            padding: 20px;
+        }
+
+        .homenav a{
+            color: white;
+        }
+
+        .homenav .dp a{
+            color: black;
+        }
